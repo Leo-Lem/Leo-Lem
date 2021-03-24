@@ -8,4 +8,4 @@ I'm a software engineer and computer science student with a focus on building th
 
 <img width="69%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leo-lem&theme=transparent" />
 <img width="29%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leo-lem&theme=transparent" />
-<img src="https://github-profile-trophy.vercel.app/?username=leo-lem&theme=algolia&column=9&&no-bg=true">
+Leopold Lemmermann - 2021-03-24 - 0
