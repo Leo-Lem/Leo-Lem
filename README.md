@@ -1,6 +1,6 @@
 # Hey there 👋
 
-### Languages
+## Languages
  
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="5%" alt="Swift" />
@@ -10,9 +10,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="5%" alt="Java" />
 </div>
 
-### Frameworks & Tools
+## Frameworks & Tools
 
-<div>
+<p>
   <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width=5% alt="SwiftUI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="5%" alt="Xcode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="5%" alt="VSCode" />
@@ -28,9 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="5%" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="5%" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="5%" alt="NGINX" />
-</div>
+</p>
 
-### Operating Systems
+## Operating Systems
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="5%" alt="Apple" />
@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="5%" alt="Windows" />
 </div>
 
-<hr />
+<br />
 
 <details>
   <summary>Show more</summary>
