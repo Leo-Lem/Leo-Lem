@@ -5,7 +5,13 @@
 
 ## Languages
 
-<img src="languages.svg" alt="Programming languages I know">
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="5%" alt="Swift" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="5%" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5%" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="5%" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="5%" alt="Java" />
+</div>
 
 ## Frameworks & Tools
 
@@ -59,5 +65,9 @@
     </a>
   </div>
 
- <img src="https://komarev.com/ghpvc/?username=leo-lem&color=yellowgreen&style=for-the-badge" width="25%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=leo-lem&theme=gruvbox" alt="trophies" width="100%" />
 </details>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=leo-lem&color=yellowgreen&style=for-the-badge" width="20%" />
