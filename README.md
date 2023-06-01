@@ -1,14 +1,11 @@
-<img src="title.svg" width="100%" />
+<h1>
+  Hey there, I'm Leo!
+  <img src="wave.svg" />
+</h1>
 
 ## Languages
- 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="5%" alt="Swift" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="5%" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5%" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="5%" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="5%" alt="Java" />
-</div>
+
+<img src="languages.svg" alt="Programming languages I know">
 
 ## Frameworks & Tools
 
@@ -44,7 +41,8 @@
 <details>
   <summary>Show more</summary>
 
-  ## Stats
+## Stats
+
   <div>
     <a href="https://github.com/leo-lem">
       <img
@@ -60,6 +58,6 @@
         width="100%" />
     </a>
   </div>
- 
+
  <img src="https://komarev.com/ghpvc/?username=leo-lem&color=yellowgreen&style=for-the-badge" width="25%" />
 </details>
