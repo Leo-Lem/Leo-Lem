@@ -3,6 +3,38 @@
   <img src="wave.svg" />
 </h1>
 
+## Currently working on
+
+<h4>
+  <a href="https://github.com/leo-lem/smokesfactsapi">
+      <img src="https://github.com/Leo-Lem/Leo-Lem/assets/81310398/69b10456-dd5c-41fb-9fe8-2a929311d7f2" width="20px" alt="KeepinOn" />
+      SmokesFactsAPI
+  </a>
+  - OpenAI integration
+</h4>
+
+<h4>
+  <a href="https://github.com/leo-lem/swiftservices">
+      <img width="20px" />
+      SwiftServices
+  </a>
+  - Merging all the services, cleaning up and updating.
+</h4>
+
+<h4>
+  <a href="https://github.com/leo-lem/keepinon">
+      <img src="https://github.com/Leo-Lem/Leo-Lem/assets/81310398/c8c4fd93-0393-42a0-8558-f2b5b74f3532" width="20px" alt="KeepinOn" />
+      KeepinOn
+  </a>
+  - Redoing the project from the ground up
+</h4>
+
+## Next up
+
+* Personal webpage
+* StudentScroll app?
+* ...
+
 ## Languages
 
 <div>
