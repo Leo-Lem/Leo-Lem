@@ -6,8 +6,15 @@
 ## Currently working on
 
 <h4>
+  <a href="https://github.com/leo-lem/shelf">
+      <img src="https://raw.githubusercontent.com/Leo-Lem/Shelf/fdbddad36ae6f2c89e25046da1064fc01d70bf71/res/artwork/shelf.svg" width="20px" alt="Shelf" />
+      Shelf
+  </a>
+</h4>
+
+<h4>
   <a href="https://github.com/leo-lem/smokesfactsapi">
-      <img src="https://github.com/Leo-Lem/Leo-Lem/assets/81310398/69b10456-dd5c-41fb-9fe8-2a929311d7f2" width="20px" alt="KeepinOn" />
+      <img src="https://github.com/Leo-Lem/Leo-Lem/assets/81310398/69b10456-dd5c-41fb-9fe8-2a929311d7f2" width="20px" alt="SmokesFactsAPI" />
       SmokesFactsAPI
   </a>
   - OpenAI integration
@@ -19,14 +26,6 @@
       SwiftServices
   </a>
   - Merging all the services, cleaning up and updating.
-</h4>
-
-<h4>
-  <a href="https://github.com/leo-lem/keepinon">
-      <img src="https://github.com/Leo-Lem/Leo-Lem/assets/81310398/c8c4fd93-0393-42a0-8558-f2b5b74f3532" width="20px" alt="KeepinOn" />
-      KeepinOn
-  </a>
-  - Redoing the project from the ground up
 </h4>
 
 ## Next up
