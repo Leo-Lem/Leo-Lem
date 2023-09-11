@@ -90,9 +90,6 @@
       <img
         src="https://github-readme-streak-stats.herokuapp.com?user=leo-lem&amp;hide_border=true&amp;theme=transparent&amp;card-width=500"
         width="59%" />
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=leo-lem&amp;langs_count=5&amp;hide=html,Dockerfile&amp;layout=default&amp;hide_border=true&amp;theme=transparent&amp;card_width=1000"
-        width="100%" />
     </a>
   </div>
 
