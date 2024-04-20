@@ -6,13 +6,6 @@
 ## Currently working on
 
 <h4>
-  <a href="https://github.com/leo-lem/shelf">
-      <img src="https://raw.githubusercontent.com/Leo-Lem/Shelf/fdbddad36ae6f2c89e25046da1064fc01d70bf71/res/artwork/shelf.svg" width="20px" alt="Shelf" />
-      Shelf
-  </a>
-</h4>
-
-<h4>
   <a href="https://github.com/leo-lem/smokesfactsapi">
       <img src="https://github.com/Leo-Lem/Leo-Lem/assets/81310398/69b10456-dd5c-41fb-9fe8-2a929311d7f2" width="20px" alt="SmokesFactsAPI" />
       SmokesFactsAPI
@@ -59,7 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="5%" alt="Material UI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="5%" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="5%" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="5%" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="5%" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="5%" alt="NGINX" />
 </p>
