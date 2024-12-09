@@ -6,26 +6,15 @@
 ## Currently working on
 
 <h4>
-  <a href="https://github.com/leo-lem/smokesfactsapi">
-      <img src="https://github.com/Leo-Lem/Leo-Lem/assets/81310398/69b10456-dd5c-41fb-9fe8-2a929311d7f2" width="20px" alt="SmokesFactsAPI" />
-      SmokesFactsAPI
-  </a>
-  - OpenAI integration
-</h4>
-
-<h4>
-  <a href="https://github.com/leo-lem/swiftservices">
+  <a href="https://github.com/leo-lem/winter24">
       <img width="20px" />
-      SwiftServices
+      Master's at Uni Hamburg.
   </a>
-  - Merging all the services, cleaning up and updating.
 </h4>
 
 ## Next up
 
-* Personal webpage
-* StudentScroll app?
-* ...
+* …
 
 ## Languages
 
