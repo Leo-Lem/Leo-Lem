@@ -6,7 +6,7 @@
 ## Currently working on
 
 <h4>
-  <a href="https://github.com/leo-lem/winter24">
+  <a href="https://github.com/leo-lem/summer25">
       <img width="20px" />
       Master's at Uni Hamburg.
   </a>
