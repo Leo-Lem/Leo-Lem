@@ -7,8 +7,11 @@
 
 <h4>
   <a href="https://github.com/leo-lem/summer25">
-      <img width="20px" />
-      Master's at Uni Hamburg.
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/UHH_Universität_Hamburg_Logo.svg" width="20px" /> Master's at Uni Hamburg.
+  </a>
+  <br><br>
+  <a href="https://github.com/Leo-Lem/leolem.dev">
+    <img src="https://raw.githubusercontent.com/Leo-Lem/leolem.dev/refs/heads/main/public/favicon.ico" width="20px" /> My personal webpage: leolem.dev.
   </a>
 </h4>
 
