@@ -1,0 +1,45 @@
+# Example Usage:
+# name: CodeQL
+# on:
+#  workflow_dispatch:
+#  schedule:
+#    - cron: '00 00 * * 6'
+# jobs:
+#  codeql:
+#    uses: leo-lem/leo-lem/.github/workflows/codeql.yml@main
+
+name: CodeQL
+on:
+  workflow_call:
+jobs:
+  analyze:
+    name: Analyze (${{ matrix.language }})
+    runs-on: ${{ (matrix.language == 'swift' && 'macos-latest') || 'ubuntu-latest' }}
+    permissions:
+      security-events: write
+      contents: read
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - language: actions
+            build-mode: none
+          - language: javascript-typescript
+            build-mode: none
+    steps:
+      - uses: actions/checkout@v4
+      - name: Initialize CodeQL
+        uses: github/codeql-action/init@v3
+        with:
+          languages: ${{ matrix.language }}
+          build-mode: ${{ matrix.build-mode }}
+      - if: matrix.build-mode == 'manual'
+        shell: bash
+        run: |
+          echo 'Manual build mode requires your build commands.'
+          echo 'E.g. make bootstrap && make release'
+          exit 1
+      - name: Perform CodeQL Analysis
+        uses: github/codeql-action/analyze@v3
+        with:
+          category: "/language:${{ matrix.language }}"
