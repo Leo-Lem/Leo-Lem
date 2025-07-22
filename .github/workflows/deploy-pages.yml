@@ -1,0 +1,39 @@
+# Example usage:
+# 
+# jobs:
+#   deploy:
+#     uses: leo-lem/leo-lem/.github/workflows/deploy-pages.yml@main
+#     with:
+#       path: resource/webpage
+
+name: Deploy Static Page
+on:
+  workflow_call:
+    inputs:
+      path:
+        description: "Path to the static site directory"
+        required: true
+        type: string
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - name: Upload page
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ inputs.path }}
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
+        id: deployment
