@@ -6,6 +6,8 @@
 #  schedule:
 #    - cron: '00 00 * * 6'
 #permissions:
+#  actions: read
+#  contents: read
 #  security-events: write
 #jobs:
 #  codeql:
