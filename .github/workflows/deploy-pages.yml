@@ -1,5 +1,9 @@
 # Example usage:
 # 
+# permissions:
+#  contents: read
+#  pages: write
+#  id-token: write
 # jobs:
 #   deploy:
 #     uses: leo-lem/leo-lem/.github/workflows/deploy-pages.yml@main
