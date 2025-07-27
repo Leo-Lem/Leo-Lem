@@ -7,7 +7,7 @@
 
 <h4>
   <a href="https://github.com/Leo-Lem/almost">
-    <img src="https://img.icons8.com/m_sharp/512/FFFFFF/mac-os.png" width="20px" /> Almost? Personal reflection diary.
+    <img src="https://github.com/leo-lem/Almost/blob/60f3fc08b897dab16f24d752c25813f5d764b97d/resource/Assets.xcassets/AppIcon.appiconset/icon.png" width="20px" /> Almost? Personal reflection diary.
   </a>
   <br><br>
   <a href="https://github.com/Leo-Lem/leolem.dev">
