@@ -1,38 +1,11 @@
-<h1>
-  Hey there, I'm Leo!
-  <img src="wave.svg" />
-</h1>
+<h1>Hey there, I'm Leo! <img src="wave.svg" height="30" /></h1>
 
-## Currently working on
+I'm a software engineer and computer science student with a focus on building thoughtful developer tools and small, well-crafted apps. Currently freelancing, exploring Firebase/iOS integrations, and occasionally contributing to open source.
 
-<h4>
-  <a href="https://github.com/Leo-Lem/almost">
-    <img src="https://github.com/leo-lem/Almost/blob/60f3fc08b897dab16f24d752c25813f5d764b97d/resource/Assets.xcassets/AppIcon.appiconset/icon.png" width="20px" /> Almost? Personal reflection diary.
-  </a>
-  <br><br>
-  <a href="https://github.com/Leo-Lem/leolem.dev">
-    <img src="https://raw.githubusercontent.com/Leo-Lem/leolem.dev/refs/heads/main/public/favicon.ico" width="20px" /> My personal webpage: leolem.dev.
-  </a>
-</h4>
+<a href="https://leolem.dev"><img src="https://img.shields.io/website?url=https%3A%2F%2Fleolem.dev"></a>
+<img src="https://komarev.com/ghpvc/?username=leo-lem&color=yellowgreen&style=flat" />
+<img src="https://img.shields.io/github/stars/leo-lem?affiliations=OWNER&style=social" >
 
-<br />
-
-<details>
-  <summary>Show more</summary>
-
-## Stats
-
-  <div>
-    <a href="https://github.com/leo-lem">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leo-lem&amp;theme=transparent"
-        width="69%" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leo-lem&amp;theme=transparent"
-        width="29%" />
-    </a>
-  </div>
-</details>
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=leo-lem&color=yellowgreen&style=for-the-badge" width="20%" />
+<img width="69%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leo-lem&theme=transparent" />
+<img width="29%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leo-lem&theme=transparent" />
+<img src="https://github-profile-trophy.vercel.app/?username=leo-lem&theme=algolia&column=9&&no-bg=true">
